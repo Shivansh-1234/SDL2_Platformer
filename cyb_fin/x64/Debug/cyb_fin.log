@@ -1,0 +1,157 @@
+﻿  CameraController.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\CameraController.cpp(10,94): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\CameraController.cpp(11,94): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\Main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RoundKing.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\RoundKing.cpp(31,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\RoundKing.cpp(32,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\RoundKing.cpp(90,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\RoundKing.cpp(90,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\RoundKing.cpp(323,28): warning C4305: '=': truncation from 'double' to 'float'
+  animation.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\animation.cpp(18,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  animationSet.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  bullet.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\bullet.cpp(14,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\bullet.cpp(15,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  entity.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(86,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(87,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(143,57): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(144,57): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(149,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(185,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(186,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(190,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(191,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(195,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(196,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(200,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(201,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(283,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(287,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(291,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(333,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(334,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(336,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\entity.cpp(337,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  frame.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\frame.cpp(5,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\frame.cpp(6,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(82,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(83,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(100,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(101,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(107,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(108,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(116,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(117,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(123,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(124,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(133,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(260,75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(261,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(262,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\game.cpp(286,33): warning C4305: '=': truncation from 'double' to 'float'
+  glob.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\glob.cpp(38,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\glob.cpp(39,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\glob.cpp(81,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\glob.cpp(281,28): warning C4305: '=': truncation from 'double' to 'float'
+  grob.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\grob.cpp(27,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\grob.cpp(28,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\grob.cpp(86,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\grob.cpp(224,28): warning C4305: '=': truncation from 'double' to 'float'
+  groupBuilder.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBuilder.cpp(51,26): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBuilder.cpp(59,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBuilder.cpp(95,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hero.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hero.cpp(32,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hero.cpp(33,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hero.cpp(84,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hero.cpp(99,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hero.cpp(100,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hero.cpp(209,28): warning C4305: '=': truncation from 'double' to 'float'
+  hpBar.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hpBar.cpp(14,51): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\hpBar.cpp(14,51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  keyboardInput.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  livingEntity.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\livingEntity.cpp(11,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\livingEntity.cpp(12,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\livingEntity.cpp(19,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  wall.cpp
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\karti\source\repos\cyb_fin\cyb_fin\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  cyb_fin.vcxproj -> C:\Users\karti\source\repos\cyb_fin\x64\Debug\cyb_fin.exe
